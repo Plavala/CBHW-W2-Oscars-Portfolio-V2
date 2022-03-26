@@ -6,7 +6,7 @@ For our 2nd week homework we were asked to create a web application. We were tas
 
 *Here is an example of what that page looks like.*
 
-![*This page includes a navigation bar, a header image, and info box's such as about me and past examples*](./Assets/Images/example.png)
+![*This page includes a navigation bar, a header image, and info box's such as about me and past examples*](assets\Images\example.png)
 
 In this homework I took inspiration from my last homework "CodeRefactor '' and built on top of that to create my Portfolio. I integrated all necessary changes and added all requested information. changed up the back layout and margins so it can be visible and adjusted through various types of screens. The page contains a section about me, how to contact me, previous home work examples and a link to my github for more of my work. all links on site work and all info is up to date. I will continue to update the page as my progress continues. the repo was not working but turns out it was due to spelling error so all should be working now. 
 
