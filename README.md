@@ -45,10 +45,10 @@ If running into probloms plese contact Me "Oscar Salagdo" and i will get back to
 - This Repository: Oscar Salagdo
 - Built with: VScode
 
-## Acknowledgments
+
 Contributions and help was provided from the following:
 - Instructor: Trey Eckels
-- Classmate: Molly Gove
+- Classma## Acknowledgmentste: Molly Gove
 - Roomate: Brandon Van Le
 - The last homework "code refactor" 
 - the last homework "code refactor" a 2nd time for the fact it was my base.
